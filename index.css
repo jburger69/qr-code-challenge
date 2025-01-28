@@ -8,3 +8,10 @@ body {
     display: grid;
     place-content: center;
 }
+
+.qr-container {
+    background-color: white;
+    border: 2px solid #00A4BD;
+    padding: 10px;
+    border-radius: 12px;
+}
